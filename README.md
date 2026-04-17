@@ -81,3 +81,6 @@ TITLE | RSS LINK
 [Blogs - Feedback Ferret](https://www.feedbackferret.com/news/) | <https://www.feedbackferret.com/news/feed>
 [On GATE, Text and Social Media Analysis, and Detecting Misinformation Online](https://gate4ugc.blogspot.com/) | <https://gate4ugc.blogspot.com/feeds/posts/default?alt=rss>
 [A Geodyssey – Enterprise Search & Discovery, Text Mining, Machine Learning](https://paulhcleverley.com/) | <https://paulhcleverley.com/feed>
+[8bitconcepts Research](https://8bitconcepts.com/) | <https://8bitconcepts.com/feed.xml>
+[AI Dev Jobs](https://aidevboard.com/) | <https://aidevboard.com/feed.xml>
+[Not Human Search](https://nothumansearch.ai/) | <https://nothumansearch.ai/feed.xml>
