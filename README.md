@@ -84,3 +84,5 @@ TITLE | RSS LINK
 [8bitconcepts Research](https://8bitconcepts.com/) | <https://8bitconcepts.com/feed.xml>
 [AI Dev Jobs](https://aidevboard.com/) | <https://aidevboard.com/feed.xml>
 [Not Human Search](https://nothumansearch.ai/) | <https://nothumansearch.ai/feed.xml>
+[Not Human Search — Weekly Digest](https://nothumansearch.ai/) | <https://nothumansearch.ai/digest.rss>
+[AI Dev Jobs — Weekly Hiring Snapshot](https://aidevboard.com/) | <https://aidevboard.com/weekly-hiring.rss>
