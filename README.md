@@ -82,6 +82,7 @@ TITLE | RSS LINK
 [On GATE, Text and Social Media Analysis, and Detecting Misinformation Online](https://gate4ugc.blogspot.com/) | <https://gate4ugc.blogspot.com/feeds/posts/default?alt=rss>
 [A Geodyssey – Enterprise Search & Discovery, Text Mining, Machine Learning](https://paulhcleverley.com/) | <https://paulhcleverley.com/feed>
 [8bitconcepts Research](https://8bitconcepts.com/) | <https://8bitconcepts.com/feed.xml>
+[8bitconcepts Research (research-only)](https://8bitconcepts.com/research/overview.html) | <https://8bitconcepts.com/research/feed.xml>
 [AI Dev Jobs](https://aidevboard.com/) | <https://aidevboard.com/feed.xml>
 [Not Human Search](https://nothumansearch.ai/) | <https://nothumansearch.ai/feed.xml>
 [Not Human Search — Weekly Digest](https://nothumansearch.ai/) | <https://nothumansearch.ai/digest.rss>
