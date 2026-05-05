@@ -34,6 +34,8 @@ TITLE | RSS LINK
 [Blog – Quertle](http://quertle.com/blog/) | <http://quertle.com/blog/feed>
 [Artificial Intelligence Resources](http://airesources.blogspot.com/) | <http://airesources.blogspot.com/feeds/posts/default?alt=rss>
 [Computational Intelligence](http://computational-intelligence.blogspot.com/) | <http://computational-intelligence.blogspot.com/feeds/posts/default>
+[8bitconcepts.com — Enterprise AI Research](https://8bitconcepts.com/) | <https://8bitconcepts.com/feed.xml>
+[AI Dev Board — AI/ML Job Postings](https://aidevboard.com/) | <https://aidevboard.com/feed.xml>
 
 ## Neural Networks
 TITLE | RSS LINK
