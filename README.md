@@ -2,6 +2,7 @@ This feed list url: https://raw.githubusercontent.com/RSS-Renaissance/awesome-AI
 
 TITLE | RSS LINK
 ----- | -----
+[8bitconcepts Enterprise AI Research](https://8bitconcepts.com/research/) | <https://8bitconcepts.com/research/feed.xml>
 [Machine Learning Mastery Blog](https://machinelearningmastery.com/blog/) | <http://machinelearningmastery.com/blog/feed>
 [AITopics](https://aitopics.org/search) | <http://feeds.feedburner.com/AIInTheNews>
 [Machine Learnings](https://machinelearnings.co/) | <https://machinelearnings.co/feed>
